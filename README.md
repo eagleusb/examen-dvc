@@ -1,18 +1,20 @@
 # Examen DVC et Dagshub
-Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la solution de l'examen. 
 
-```bash       
-├── examen_dvc          
-│   ├── data       
-│   │   ├── processed      
-│   │   └── raw       
-│   ├── metrics       
-│   ├── models      
-│   │   ├── data      
-│   │   └── models        
-│   ├── src       
-│   └── README.md.py       
+Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la solution de l'examen.
+
+```bash
+├── examen_dvc
+│   ├── data
+│   │   ├── processed
+│   │   └── raw
+│   ├── metrics
+│   ├── models
+│   │   ├── data
+│   │   └── models
+│   ├── src
+│   └── README.md
 ```
+
 N'hésitez pas à rajouter les dossiers ou les fichiers qui vous semblent pertinents.
 
 Vous devez dans un premier temps *Fork* le repo et puis le cloner pour travailler dessus. Le rendu de cet examen sera le lien vers votre dépôt sur DagsHub. Faites attention à bien mettre https://dagshub.com/licence.pedago en tant que colaborateur avec des droits de lecture seulement pour que ce soit corrigé.
