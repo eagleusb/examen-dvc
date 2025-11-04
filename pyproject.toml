@@ -11,7 +11,7 @@ dependencies = [
 
 [dependency-groups]
 dev = [
-    "dvc",
+    "dvc[all]",
     "uv>=0.9.7",
 ]
 

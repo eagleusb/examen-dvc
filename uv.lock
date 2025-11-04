@@ -25,7 +25,7 @@ requires-dist = [
 
 [package.metadata.requires-dev]
 dev = [
-    { name = "dvc", virtual = "." },
+    { name = "dvc", extras = ["all"], virtual = "." },
     { name = "uv", specifier = ">=0.9.7" },
 ]
 
